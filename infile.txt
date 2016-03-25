@@ -1,0 +1,10 @@
+type 1
+xlength 60
+ylength 40
+zlength 80
+interval 5
+threshold .000001
+stepinterval 10
+charge 30 30 30 60000
+charge 20 20 20 -70000
+wire 20 20 6000000
